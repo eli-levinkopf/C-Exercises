@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/elilevinkopf/CLionProjects/ex3-eli.levinkopf/ex3.h
+math.h
+-
+stddef.h
+-
+stdio.h
+-
+stdlib.h
+-
+
+/Users/elilevinkopf/CLionProjects/ex3-eli.levinkopf/test_ex3.c
+ex3.h
+/Users/elilevinkopf/CLionProjects/ex3-eli.levinkopf/ex3.h
+

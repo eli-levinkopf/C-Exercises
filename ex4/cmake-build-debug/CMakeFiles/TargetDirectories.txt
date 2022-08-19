@@ -1,0 +1,3 @@
+/Users/elilevinkopf/CLionProjects/ex4-eli.levinkopf/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/elilevinkopf/CLionProjects/ex4-eli.levinkopf/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/elilevinkopf/CLionProjects/ex4-eli.levinkopf/cmake-build-debug/CMakeFiles/ex4_eli_levinkopf.dir

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/elilevinkopf/CLionProjects/ex1-eli.levinkopf/cipher.h
+
+/Users/elilevinkopf/CLionProjects/ex1-eli.levinkopf/ex1.c
+stdio.h
+-
+stdlib.h
+-
+ctype.h
+-
+string.h
+-
+cipher.h
+/Users/elilevinkopf/CLionProjects/ex1-eli.levinkopf/cipher.h
+
